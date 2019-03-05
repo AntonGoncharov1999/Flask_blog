@@ -10,5 +10,5 @@
 # Restructure file 
 # Delete old file
 # (05.03.2019)
-# Add user authentication (danger bug)
+# Add user authentication end debug
 
